@@ -1,10 +1,10 @@
 # Rename this to "config.py"
 
-token = "NTIyNDIxNzI2NzY0NTk3MjU4.DvKu_A.cjyeoffmOHBzhi5a5ZIsKwSBR8M"
+token = "BOT_TOKEN"
 shard_count = 1  # ~ guilds // 1000
 shard_ids = None  # ~ Optional
 
-prefix = "!"
+prefix = "#"
 
 extensions = [
     "cogs.errors",
@@ -18,7 +18,7 @@ extensions = [
     "cogs.stats"
 ]
 
-support_guild = 410488579140354049
+support_guild = 522419810701803522
 
 self_host = True
 # The options below are not required if "self_host" is enabled
