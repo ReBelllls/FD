@@ -1,6 +1,6 @@
 # Rename this to "config.py"
 
-token = "BOT_TOKEN"
+token = "NTIyNDIxNzI2NzY0NTk3MjU4.DvKu_A.cjyeoffmOHBzhi5a5ZIsKwSBR8M"
 shard_count = 1  # ~ guilds // 1000
 shard_ids = None  # ~ Optional
 
